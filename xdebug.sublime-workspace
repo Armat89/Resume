@@ -1,0 +1,359 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"impl",
+				"implements"
+			],
+			[
+				"mysql_e",
+				"mysql_error"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "xdebug.sublime-project",
+			"settings":
+			{
+				"buffer_size": 207,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "install package",
+		"selected_items":
+		[
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 280.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/OpenServer/domains/armatbp.dev"
+	],
+	"file_history":
+	[
+		"/C/OpenServer/domains/learn.dev/index.php",
+		"/C/Users/Администратор/Desktop/consolidated-multi-country/consolidated-multi-country/uk/application/api/test.php",
+		"/C/Users/Администратор/Desktop/consolidated-multi-country/consolidated-multi-country/qlj/Service/RestService/MT4/CreateAccount/Response.php",
+		"/C/Users/Администратор/Desktop/consolidated-multi-country/consolidated-multi-country/application/api/gomarkets.php",
+		"/C/Users/Администратор/Desktop/consolidated-multi-country/consolidated-multi-country/servicemocks/ID3/request-and-response.txt",
+		"/C/Users/Администратор/Desktop/consolidated-multi-country/consolidated-multi-country/application/testID3.php",
+		"/C/Users/Администратор/Desktop/consolidated-multi-country/consolidated-multi-country/uk/application/api/salesforce/index.php",
+		"/C/OpenServer/domains/public-api.dev/index.php",
+		"/C/OpenServer/userdata/config/PHP-5.6_php.ini",
+		"/C/Install/SublimeTextXdebug-master/SublimeTextXdebug-master/Xdebug.sublime-settings",
+		"/C/Install/SublimeTextXdebug-master/SublimeTextXdebug-master/Xdebug.tmLanguage",
+		"/C/Install/SublimeTextXdebug-master/SublimeTextXdebug-master/Default.sublime-keymap",
+		"/C/Users/Администратор/Desktop/extra.json",
+		"/C/Users/Администратор/Desktop/consolidated-multi-country/consolidated-multi-country/qlj/Controller/Application.php",
+		"/C/Users/Администратор/Downloads/gomarkets-public-api-488c23977697/gomarkets-public-api-488c23977697/app/validationRules.json",
+		"/C/Users/Администратор/Desktop/consolidated-multi-country/consolidated-multi-country/uk/application/api/salesforce/test.php",
+		"/C/Users/Администратор/Downloads/startbootstrap-creative-gh-pages/startbootstrap-creative-gh-pages/package.json",
+		"/C/Users/Администратор/Downloads/startbootstrap-creative-gh-pages/startbootstrap-creative-gh-pages/gulpfile.js",
+		"/C/Users/Администратор/Downloads/startbootstrap-creative-gh-pages/startbootstrap-creative-gh-pages/.gitignore",
+		"/C/OpenServer/userdata/config/Bind-9.10_zone.conf",
+		"/C/OpenServer/userdata/config/Bind-9.10_server.conf",
+		"/C/OpenServer/userdata/config/Apache-2.4_vhost.conf",
+		"/C/OpenServer/userdata/config/Apache-2.4_server.conf",
+		"/C/OpenServer/userdata/config/MySQL-5.6_my.ini",
+		"/C/OpenServer/OpenServer/userdata/config/Bind-9.10_zone.conf",
+		"/C/OpenServer/OpenServer/domains/public-api.dev/index.php",
+		"/C/OpenServer/OpenServer/domains/public-api.dev/app/Api.class.php",
+		"/C/OpenServer/OpenServer/domains/public-api.dev/app/Customer.class.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/OpenServer/OpenServer/userdata/config/Apache-2.4_server.conf",
+		"/C/OpenServer/OpenServer/userdata/config/Apache-2.4_vhost.conf",
+		"/C/OpenServer/OpenServer/userdata/config/PHP-5.6_php.ini",
+		"/C/OpenServer/OpenServer/userdata/config/Bind-9.10_server.conf",
+		"/C/OpenServer/OpenServer/userdata/config/MySQL-5.6_my.ini",
+		"/C/Users/Администратор/Desktop/consolidated-multi-country/consolidated-multi-country/application/api/id3.php",
+		"/C/Users/Администратор/Desktop/consolidated-multi-country/consolidated-multi-country/salesforce/index.php",
+		"/C/Users/Администратор/Desktop/consolidated-multi-country/consolidated-multi-country/application/testNewApplication.php",
+		"/C/Users/Администратор/Desktop/consolidated-multi-country/consolidated-multi-country/qlj/Application/IBPortalClient.php",
+		"/C/OpenServer/OpenServer/domains/public-api.dev/client.php",
+		"/C/OpenServer/OpenServer/domains/public-api.dev/.htaccess",
+		"/C/OpenServer/OpenServer/domains/public-api.dev/app/Mysql.class.php",
+		"/C/Users/Администратор/Desktop/consolidated-multi-country/consolidated-multi-country/application/testCreateMT4Account.php",
+		"/C/Users/Администратор/Downloads/baby222.dev/application/models/crud.php",
+		"/C/OpenServer/OpenServer/domains/public-api.dev/app/api.log",
+		"/C/OpenServer/OpenServer/domains/learn.dev/application/controllers/account.php",
+		"/C/Users/Администратор/Downloads/Eleyus/parser/init.php",
+		"/C/OpenServer/OpenServer/domains/learn.dev/application/models/catalog_m.php",
+		"/C/Users/Администратор/Downloads/Eleyus/parser/index.php",
+		"/C/Users/Администратор/Downloads/Eleyus/parser/models/crud.php",
+		"/C/OpenServer/OpenServer/domains/learn.dev/application/helpers/dev_helper.php",
+		"/C/OpenServer/OpenServer/domains/learn.dev/application/libraries/String_lib.php",
+		"/C/OpenServer/OpenServer/domains/learn.dev/application/controllers/main.php",
+		"/C/OpenServer/OpenServer/domains/learn.dev/application/controllers/sess.php",
+		"/C/OpenServer/OpenServer/domains/learn.dev/application/controllers/ajax.php",
+		"/C/OpenServer/OpenServer/domains/learn.dev/application/models/extensions_m.php",
+		"/C/OpenServer/OpenServer/domains/learn.dev/application/models/crud.php",
+		"/C/OpenServer/OpenServer/domains/localhost/index.php",
+		"/C/Users/Администратор/Downloads/Template_htmlMarkup_magister/Magister/index.html",
+		"/C/Users/Администратор/Downloads/baby222.dev/application/models/auth_m.php",
+		"/C/Users/Администратор/Downloads/baby222.dev/docs/stepashka.xml",
+		"/C/Users/Администратор/Downloads/baby222.dev/docs/config.php",
+		"/C/OpenServer/OpenServer/domains/localhost/index.html",
+		"/C/OpenServer/OpenServer/domains/localhost/assets/css/magister.css",
+		"/C/Users/Администратор/Desktop/consolidated-multi-country/consolidated-multi-country/application/api/test.php",
+		"/C/Users/Администратор/Downloads/setup.sql",
+		"/C/OpenServer/OpenServer/domains/learn.dev/application/config/routes.php",
+		"/C/OpenServer/OpenServer/domains/learn.dev/application/config/constants.php",
+		"/C/Users/Администратор/Downloads/baby (4).sql",
+		"/C/OpenServer/OpenServer/domains/learn.dev/application/config/config.php",
+		"/C/OpenServer/OpenServer/domains/learn.dev/application/config/database.php",
+		"/C/Users/Администратор/Downloads/DEV_github/NFight-master/NFight-master/server/server.js",
+		"/C/Users/Администратор/Desktop/consolidated-multi-country/consolidated-multi-country/application/testApplication.php",
+		"/C/OpenServer/OpenServer/domains/public-api.dev/app/Config.class.php",
+		"/C/Users/Администратор/Downloads/Eleyus/parser/.htaccess",
+		"/C/OpenServer/OpenServer/domains/learn.dev/index.php",
+		"/C/OpenServer/OpenServer/domains/public-api.dev/app/apiDump.sql",
+		"/C/Users/Администратор/Downloads/Eleyus/parser/models/mysql.php",
+		"/C/Users/Администратор/Downloads/Eleyus/parser/assets/css/dashboard.css",
+		"/C/Users/Администратор/Downloads/Eleyus/parser/views/dashboard.php",
+		"/C/OpenServer/OpenServer/domains/learn.dev/init.php",
+		"/C/Users/Администратор/Downloads/Eleyus/parser/views/header.php",
+		"/C/Users/Администратор/Desktop/consolidated-multi-country/consolidated-multi-country/uk/wp-content/plugins/GoMarkets_deposit/api/gomarkets.php",
+		"/C/Users/Администратор/Desktop/consolidated-multi-country/consolidated-multi-country/uk/wp-content/plugins/GoMarkets_deposit/scripts.php",
+		"/C/Users/Администратор/Desktop/consolidated-multi-country/consolidated-multi-country/uk/wp-content/plugins/GoMarkets_deposit/GoMarkets_deposit.php",
+		"/C/Users/Администратор/Desktop/consolidated-multi-country/consolidated-multi-country/uk/wp-content/plugins/GoMarkets_deposit/form.php",
+		"/C/Users/Администратор/Desktop/consolidated-multi-country/consolidated-multi-country/uk/wp-content/plugins/GoMarkets_deposit/force/samples/userAuth.php",
+		"/C/Users/Администратор/Desktop/consolidated-multi-country/consolidated-multi-country/index.php",
+		"/C/Users/Администратор/Downloads/Eleyus/parser/assets/css/styles.css",
+		"/C/Users/Администратор/Downloads/Eleyus/parser/views/main.php",
+		"/C/Users/Администратор/Downloads/Eleyus/parser/views/welcome.php",
+		"/C/Users/Администратор/Downloads/Eleyus/parser/views/footer.php",
+		"/C/Install/readme_developer.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bin",
+			"0.0.0.0",
+			"local-data",
+			"$_SESSION['Field']",
+			"convert",
+			"fld",
+			"$_SESSION['Field']"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$_SESSION",
+			"",
+			"$body"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "xdebug.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "xdebug.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
